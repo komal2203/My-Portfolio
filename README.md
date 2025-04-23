@@ -1,50 +1,86 @@
-# 🌐 Komal's Portfolio
+# 🌐 My Portfolio
 
 Welcome to my personal portfolio website! 🚀  
-Crafted with creativity, code, and lots of coffee — this site is a showcase of who I am, what I do, and how I blend design with development.
+Crafted with creativity, code, and lots of coffee — this site is a dynamic showcase of who I am, what I build, and how I blend clean design with robust development.
 
-## 📸 Sneak Peek
-
-Explore the live version here:  
+Explore the live site here:  
 👉 **[Live Portfolio](https://komal2203.github.io/Portfolio/)**
 
-## ✨ About Me
-
-I'm **Komal**, a passionate **MERN Developer**, **Creative Designer**, and **Competitive Programmer** currently pursuing **B.Tech in Software Engineering at DTU**.  
-I love combining logic and visuals to create meaningful digital experiences — from building full-stack web apps to solving algorithmic challenges.
-
-## 🛠️ Tech Stack
-
-- **Frontend**: React.js, Tailwind CSS, JavaScript, Redux, HTML, CSS, Framer Motion  
-- **Backend**: Node.js, Express.js, MongoDB  
-- **Tools**: Git, GitHub, VS Code, Postman  
-- **Others**: Figma, Canva, Responsive Design, UI/UX
-
-## 💼 Featured Projects
-
-| Project       | Description |
-|--------------|-------------|
-| [BeyondSight](https://github.com/komal2203/BeyondSight) | Empowering visually impaired users through tech |
-| [ChattyPals](https://github.com/komal2203/ChattyPals) | Real-time chat app with JWT authentication |
-| [Pixora](https://github.com/komal2203/Pixora) | UI-based image gallery with search & filters |
-| [Nike UI](https://github.com/komal2203/Nike-LandingPage) | Modern, responsive landing page clone |
-| [RateMyMess](https://github.com/komal2203/RateMyMess) | Food feedback platform for hostel mess management |
-
-## 🏆 Achievements
-
-- ⭐ 700+ DSA problems solved (LeetCode, CodeForces, GFG)
-- 🏅 LeetCode Rating: 1520+
-- 👩‍💻 Participant at Google Girl Hackathon 2025
-- 🎤 Debating Society Member | Adjudicated at IIT Bombay
-
-
-## 📬 Let's Connect
-
-- LinkedIn: [linkedin.com/in/komal2203](https://linkedin.com/in/komal2203)  
-- GitHub: [github.com/komal2203](https://github.com/komal2203)  
-- Email: **komalmeena220303@gmail.com**
+You’ll find my latest projects, technical skills, resume, contact info, and design aesthetics in one beautifully crafted space!
+> **"Design like an artist. Build like an engineer. Think like a user."**
 
 ---
 
-Thanks for stopping by! If you like what you see, feel free to ⭐ this repo and connect with me! 😊
+## ✨ About Me
 
+Hey there! I'm **Komal**, a final-year **Software Engineering student at Delhi Technological University (DTU)**.  
+I'm a **Full-Stack Developer** specializing in the **MERN Stack**, a **UI/UX Designer** with an eye for animations and responsive design, and a **Competitive Programmer** who enjoys solving algorithmic challenges.
+
+Whether it’s designing an intuitive UI or optimizing backend performance, I love building meaningful, user-centric digital experiences.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+- React.js
+- Tailwind CSS, CSS3, HTML5
+- JavaScript (ES6+), Redux, Framer Motion
+- Responsive Design & Accessibility
+
+### 🔧 Backend & Database
+- Node.js, Express.js
+- MongoDB (Mongoose ODM)
+- RESTful APIs, JWT Authentication
+
+### 🧰 Tools & Platforms
+- Git & GitHub
+- Postman, VS Code, Netlify, Render
+- Figma, Canva
+
+---
+
+## **`📚 Projects`**
+
+| Project Name              | Description                                                                                     | Live Link                  |
+|---------------------------|-------------------------------------------------------------------------------------------------|----------------------------|
+| ChattyPals                | A real-time chat application with message exchange and user authentication using Node.js.       | [Live here](https://chattypals.netlify.app/) 
+|Pixora                     | A photo-sharing app where users can post, like, and manage pictures.                            | [Live here](https://pixora-frontend.onrender.com/)
+| Musico                    | A music app clone with play, pause, and navigation features using React and Tailwind CSS.       | [Live here](https://66d42abd15d248ff1c2372ac--spotifyclonebymeeee.netlify.app/)                  |
+| Weather App               | Displays real-time weather data using an API with temperature, humidity, and wind speed.        | [Live here](https://komal2203.github.io/Weather-App/)                  |
+| Koko Cafe Website         | A responsive website with smooth animations using Tailwind CSS and Framer Motion.               | [Live here](http://localhost:5173/my-project/)                  |
+| Nike Landing Page         | A sleek, modern frontend project with animated product showcases using React.                   | [Live here](https://komal2203.github.io/my-nike-landing-page/)                  |
+
+---
+
+## 🏆 Achievements & Highlights
+
+- ✅ **Solved 700+ DSA problems** across LeetCode, CodeForces, and GFG  
+- 🔸 **LeetCode Rating**: 1520+
+- 👩🏻‍💻 **Worked as a team of six and emerged as one of the Top 4 Finalists in the Code-to-Give Hackathon by Morgan Stanley. **
+- 🎤 Member of **Cognitive Minds (Debating Society)** at DTU  
+- 🏅 **Adjudicated at IIT Bombay Debate** for British Parliamentary Debate  
+
+---
+
+## 📚 Education
+
+🎓 **B.Tech in Software Engineering**  
+Delhi Technological University (DTU), 2022 – Present
+
+---
+
+## 📬 Let's Connect!
+
+I'm always open to collaborating on exciting projects, sharing ideas, or just chatting tech!
+
+- 🔗 LinkedIn: [linkedin.com/in/komalmeena2203](https://www.linkedin.com/in/komalmeena2203/)
+- 📧 Email: **komalmeena220303@gmail.com**
+
+---
+
+## ⭐ Support
+
+If you like my work, consider giving this repo a ⭐ or reaching out. Feedback and contributions are always welcome!
+
+Thanks for visiting! 😊
