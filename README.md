@@ -6,7 +6,7 @@ Crafted with creativity, code, and lots of coffee — this site is a showcase of
 ## 📸 Sneak Peek
 
 Explore the live version here:  
-👉 **[komal2203.github.io](https://komal2203.github.io)**
+👉 **[komal2203.github.io](https://komal2203.github.io/Portfolio/)**
 
 ## ✨ About Me
 
